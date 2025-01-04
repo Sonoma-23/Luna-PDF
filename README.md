@@ -1,6 +1,6 @@
 # Luna PDF
 
-Luna PDF is a simple, PDF reader built with Python and Tkinter.
+Luna PDF is a simple, PDF viewer built with Python and Tkinter.
 
 ## Features
 - Open and view PDF files.
