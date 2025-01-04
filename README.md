@@ -2,6 +2,8 @@
 
 Luna PDF is a simple, PDF viewer built with Python and Tkinter.
 
+Also I haven't tested this on Windows, but it should work.
+
 ## Installation
 1. Install Python 3.10+.
 2. Install dependencies:
